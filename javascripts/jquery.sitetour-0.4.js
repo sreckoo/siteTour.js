@@ -248,7 +248,7 @@
                 settings.complete;
             }
 
-            // checki if element is on the screen
+            // check if the element is on the screen
             $.fn.isOnScreen = function () {
                 var win = $(window);
 
